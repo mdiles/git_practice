@@ -1,6 +1,10 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "feature": "cool feature!"
+=======
+    "bug_fixed":"critical"
+>>>>>>> main
 =======
     "bug_fixed":"critical"
 >>>>>>> main
