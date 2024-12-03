@@ -1,8 +1,5 @@
 hello!
 Edited again
-<<<<<<< HEAD
 Added a very important change
 I added a cool feature
-=======
-Hey, we fixed the bug!!!
->>>>>>> main
+Hey, we fixed the bug!!!!
